@@ -1,0 +1,10 @@
+.tree {
+    background-color: #efefef;
+    height: 100%;
+    padding: 10px;
+    font-family: monospace
+}
+
+.subspeciesWrap {
+    margin-left: -40px;
+}
